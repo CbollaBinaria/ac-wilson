@@ -1,6 +1,9 @@
 body {
   margin: 0px;
   scroll-behavior: smooth;
+  background-image: url('./img/mainbkg.jpg');
+  background-attachment: fixed;
+  background-size: auto 900px;
 }
 @font-face {
   font-family: GillSans;

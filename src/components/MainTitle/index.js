@@ -1,12 +1,13 @@
 import React from 'react';
-import { TitleContainer, Title } from './styled';
+import { Title } from './styled';
+import { WhiteContainer } from '../container';
 
 
 function MainTitle() {
   return (
-    <TitleContainer>
-      <Title>A/C Wilson</Title>
-    </TitleContainer>
+    <WhiteContainer>
+      <Title>Saavedra Refrigeracion</Title>
+    </WhiteContainer>
   );
 }
 
