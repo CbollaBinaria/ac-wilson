@@ -11,7 +11,7 @@ export const FooterContainer = styled.div`
   height: 53px;
   background-color: ${colors.lblue};
   margin: 0px;
-  z-index: 9999;
+
 `
 
 export const FooterImg = styled.img`
